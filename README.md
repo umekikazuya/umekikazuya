@@ -2,8 +2,6 @@
 
 * I'm Drupal developer
 
-* 🌍  I'm based in Japan
-
 ### Skills
 
 <p align="left">
