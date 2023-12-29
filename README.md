@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* I'm Drupal developer
+* I'm Drupal developer.
 
 ### Skills
 
