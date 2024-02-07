@@ -3,7 +3,6 @@
 * I'm Drupal developer.
 
 ### Skills
-
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
@@ -44,6 +43,8 @@
     width="36" height="36" alt="MySQL" />
 </a>
 </p>
+
+### Drupal Certifications
 <p align="left">
   <img src="https://certification.acquia.com/sites/default/files/images/badges/Drupal%20Expert%20%28Drupal%209%29_0.png"
     width="114" height="150" alt="Triple Certified Drupal Expert - Drupal 9 Badge 2022" loading="lazy"
