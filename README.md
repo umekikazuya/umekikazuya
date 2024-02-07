@@ -68,3 +68,13 @@ I'm Drupal developer.
     width="36" height="36" alt="MySQL" />
 </a>
 </p>
+
+## 発信
+### コミュニティ
+- [drupal.org](https://www.drupal.org/user/3748259)
+
+### 記事
+#### [Qiita](https://qiita.com/umekikazuya)
+- [【SQL】条件付きソート/SQLマスターへの道「CASE・WHEN」](https://qiita.com/umekikazuya/items/a0132b6ac5123002932e)
+
+#### [Zenn](https://zenn.dev/kazu_u)
