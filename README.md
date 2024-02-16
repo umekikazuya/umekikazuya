@@ -23,7 +23,7 @@ I'm Drupal developer.
 </p>
 
 ## Github Stats 💻
-![kazuya-u's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuya-u&count_private=true&show_icons=true&theme=dark)
+![kazuya-u's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuya-u&count_private=true&show_icons=true&theme=dark&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuya-u&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
