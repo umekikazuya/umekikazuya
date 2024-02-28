@@ -1,9 +1,21 @@
-## About me.
+## ■ About me.
 Hi there 👋
 
 I'm Drupal developer.
 
-## スキル ・ 資格
+<p style="display: inline">
+  <img src="https://img.shields.io/badge/-drupal-0678BE.svg?logo=drupal&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/-Symfony-000000.svg?logo=symfony&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/-TypeScript-000000.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/-JavaScript-000000.svg?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/-Html5-E34F26.svg?style=for-the-badge&logo=Html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-Css3-1572B6.svg?style=for-the-badge&logo=Css3">
+  <img src="https://img.shields.io/badge/-Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
+</p>
+
+## ■ Professional certification
 [Drupal9 認定試験保有](https://certification.acquia.com/user/18866)
 <p align="left">
   <img src="https://certification.acquia.com/sites/default/files/images/badges/Drupal%20Expert%20%28Drupal%209%29_0.png"
@@ -22,54 +34,12 @@ I'm Drupal developer.
     width="133" height="150" alt="Acquia 認定デベロッパー - Drupal 9 2022 バッジ" loading="lazy" typeof="foaf:Image">
 </p>
 
-## Github Stats 💻
+## ■ Github Stats 💻
 ![kazuya-u's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuya-u&count_private=true&show_icons=true&theme=dark&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuya-u&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 言語 ・ フレームワーク
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
-    width="36" height="36" alt="PHP" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-    width="36" height="36" alt="TypeScript" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-    width="36" height="36" alt="HTML5" />
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-    width="36" height="36" alt="React" />
-</a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-    width="36" height="36" alt="CSS3" />
-</a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
-    width="36" height="36" alt="Sass" />
-</a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
-    width="36" height="36" alt="Vite" />
-</a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
-    width="36" height="36" alt="Material UI" />
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-    width="36" height="36" alt="MySQL" />
-</a>
-</p>
-
-## 発信
+## ■ Output
 ### コミュニティ
 - [drupal.org](https://www.drupal.org/user/3748259)
 
