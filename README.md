@@ -3,6 +3,7 @@ Hi there 👋
 
 I'm Drupal developer.
 
+## ■ Language and Tools
 <p style="display: inline">
   <img src="https://img.shields.io/badge/-drupal-0678BE.svg?logo=drupal&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=for-the-badge&logoColor=white">
@@ -40,11 +41,11 @@ I'm Drupal developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuya-u&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ■ Output
-### コミュニティ
+### ■ Community
 - [drupal.org](https://www.drupal.org/user/3748259)
 
-### 記事
-#### [Qiita](https://qiita.com/umekikazuya)
-- [【SQL】条件付きソート/SQLマスターへの道「CASE・WHEN」](https://qiita.com/umekikazuya/items/a0132b6ac5123002932e)
+### ■ Writing
+- [Qiita](https://qiita.com/umekikazuya)
+  - [【SQL】条件付きソート/SQLマスターへの道「CASE・WHEN」](https://qiita.com/umekikazuya/items/a0132b6ac5123002932e)
 
-#### [Zenn](https://zenn.dev/kazu_u)
+- [Zenn](https://zenn.dev/kazu_u)
