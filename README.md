@@ -45,7 +45,8 @@ I'm Drupal developer.
 - [drupal.org](https://www.drupal.org/user/3748259)
 
 ### ■ Writing
-- [Qiita](https://qiita.com/umekikazuya)
-  - [【SQL】条件付きソート/SQLマスターへの道「CASE・WHEN」](https://qiita.com/umekikazuya/items/a0132b6ac5123002932e)
-
-- [Zenn](https://zenn.dev/kazu_u)
+#### [Qiita](https://qiita.com/umekikazuya)
+- [【SQL】条件付きソート/SQLマスターへの道「CASE・WHEN」](https://qiita.com/umekikazuya/items/a0132b6ac5123002932e)
+- [「なぁぜなぁぜ」で問題解決。「なぜなぜ分析」って知ってますか？](https://qiita.com/umekikazuya/items/d8a709438b76f2bc054d)
+- [【Twig】条件分岐の使い方](https://qiita.com/umekikazuya/items/71d3ef75471d93169966)
+#### [Zenn](https://zenn.dev/kazu_u)
