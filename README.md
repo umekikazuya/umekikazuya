@@ -19,19 +19,18 @@ I'm Drupal developer.
 ## ■ Professional certification
 [Drupal9 認定試験保有](https://certification.acquia.com/user/18866)
 <p align="left">
-  <img src="https://certification.acquia.com/sites/default/files/images/badges/Drupal%20Expert%20%28Drupal%209%29_0.png"
-    width="114" height="150" alt="Triple Certified Drupal Expert - Drupal 9 Badge 2022" loading="lazy"
-    typeof="foaf:Image">
   <img
-    src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certification%252520Badge_Drupal%252520Site%252520Builder_Drupal%2525209_0_5_0.svg"
+src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certification%252520Badge_Drupal%252520Site%252520Builder_Drupal%2525209_0_5_0.svg"
     width="133" height="150" alt="アクイア認定サイトビルダー – Drupal 9 2022 Badge" loading="lazy" typeof="foaf:Image">
-
   <img src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certification%252520Badge_Developer_Drupal%2525209_0_8_0.svg"
     width="133" height="150" alt="Acquia 認定デベロッパー - Drupal 9 2022 バッジ" loading="lazy" typeof="foaf:Image">
   <img src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certification%252520Badge_Front%252520End%252520Specialist_Drupal%2525209_0_4.svg"
     width="132" height="150" alt="Drupal 9 Front end Specialist 2022 Badge" loading="lazy" typeof="foaf:Image">
     <img src="https://dev.acquia.com/sites/default/files/images/Acquia%2520Certification%2520Badge_Back%2520End%2520Specialist_Drupal%25209.svg"
     width="132" height="150" alt="アクイア認定バックエンドスペシャリスト- Drupal 9 2022 Badge" loading="lazy" typeof="foaf:Image">
+    <img src="https://certification.acquia.com/sites/default/files/images/badges/Drupal%20Expert%20%28Drupal%209%29_0.png"
+    width="114" height="150" alt="Triple Certified Drupal Expert - Drupal 9 Badge 2022" loading="lazy"
+    typeof="foaf:Image">
 </p>
 
 ## ■ Github Stats 💻
