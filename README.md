@@ -38,13 +38,12 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umekikazuya&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## ■ Output
-### ■ Community
-- [Drupal.org](https://www.drupal.org/user/3748259)
+## ■ Community
+### [Drupal.org](https://www.drupal.org/user/3748259)
+- [JapaneseEraFormatter](https://www.drupal.org/project/japanese_era_formatter)
 
-### ■ Writing
-#### [Qiita](https://qiita.com/umekikazuya)
+### [Qiita](https://qiita.com/umekikazuya)
 - [【SQL】条件付きソート/SQLマスターへの道「CASE・WHEN」](https://qiita.com/umekikazuya/items/a0132b6ac5123002932e)
 - [「なぁぜなぁぜ」で問題解決。「なぜなぜ分析」って知ってますか？](https://qiita.com/umekikazuya/items/d8a709438b76f2bc054d)
 - [【Twig】条件分岐の使い方](https://qiita.com/umekikazuya/items/71d3ef75471d93169966)
-#### [Zenn](https://zenn.dev/kazu_u)
+### [Zenn](https://zenn.dev/kazu_u)
