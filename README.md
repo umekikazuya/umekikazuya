@@ -43,7 +43,7 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
 - [JapaneseEraFormatter](https://www.drupal.org/project/japanese_era_formatter)
 
 ### [Qiita](https://qiita.com/umekikazuya)
-- [【SQL】条件付きソート/SQLマスターへの道「CASE・WHEN」](https://qiita.com/umekikazuya/items/a0132b6ac5123002932e)
+- [【PHP】Enumを活用して元号データを管理する方法](https://qiita.com/umekikazuya/items/31eabf4f3749eb7a3d16)
 - [「なぁぜなぁぜ」で問題解決。「なぜなぜ分析」って知ってますか？](https://qiita.com/umekikazuya/items/d8a709438b76f2bc054d)
-- [【Twig】条件分岐の使い方](https://qiita.com/umekikazuya/items/71d3ef75471d93169966)
+- [【SQL】NULL値を制御/SQLマスターへの道「COALESCE」](https://qiita.com/umekikazuya/items/61c16a36824c334e31e5)
 ### [Zenn](https://zenn.dev/kazu_u)
