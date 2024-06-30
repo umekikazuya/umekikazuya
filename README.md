@@ -17,7 +17,7 @@ I'm Drupal developer.
 </p>
 
 ## ■ Professional certification
-[Drupal9 認定試験保有](https://certification.acquia.com/user/18866)
+- **[Drupal9 Triple Certified](https://certification.acquia.com/user/18866)** : I have the highest level of Drupal certification.
 <p align="left">
   <img
 src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certification%252520Badge_Drupal%252520Site%252520Builder_Drupal%2525209_0_5_0.svg"
@@ -28,22 +28,25 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
     width="132" height="150" alt="Drupal 9 Front end Specialist 2022 Badge" loading="lazy" typeof="foaf:Image">
     <img src="https://dev.acquia.com/sites/default/files/images/Acquia%2520Certification%2520Badge_Back%2520End%2520Specialist_Drupal%25209.svg"
     width="132" height="150" alt="アクイア認定バックエンドスペシャリスト- Drupal 9 2022 Badge" loading="lazy" typeof="foaf:Image">
-    <img src="https://certification.acquia.com/sites/default/files/images/badges/Drupal%20Expert%20%28Drupal%209%29_0.png"
-    width="114" height="150" alt="Triple Certified Drupal Expert - Drupal 9 Badge 2022" loading="lazy"
-    typeof="foaf:Image">
 </p>
 
-## ■ Github Stats 💻
-![umekikazuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=umekikazuya&count_private=true&show_icons=true&theme=dark&rank_icon=github)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umekikazuya&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ■ Community
-### [Drupal.org](https://www.drupal.org/user/3748259)
+### [Drupal Community](https://www.drupal.org/user/3748259)
+#### Module Project
 - [JapaneseEraFormatter](https://www.drupal.org/project/japanese_era_formatter)
+- [Views Pager Token](https://www.drupal.org/project/views_pager_token)
+#### Issue
+- [「Bootstrap DateTime Picker」 - Support for the field setting "Date Only".](https://www.drupal.org/project/bootstrap_datetime_picker/issues/3424515)
+
 
 ### [Qiita](https://qiita.com/umekikazuya)
 - [【PHP】Enumを活用して元号データを管理する方法](https://qiita.com/umekikazuya/items/31eabf4f3749eb7a3d16)
 - [「なぁぜなぁぜ」で問題解決。「なぜなぜ分析」って知ってますか？](https://qiita.com/umekikazuya/items/d8a709438b76f2bc054d)
 - [【SQL】NULL値を制御/SQLマスターへの道「COALESCE」](https://qiita.com/umekikazuya/items/61c16a36824c334e31e5)
+- [PRに対して意識が変わりました 〜エンジニア2年目の夏〜](https://qiita.com/umekikazuya/items/a3260117bbc64e6673c3)
 ### [Zenn](https://zenn.dev/kazu_u)
+
+## ■ Github Stats 💻
+![umekikazuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=umekikazuya&count_private=true&show_icons=true&theme=dark&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umekikazuya&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
