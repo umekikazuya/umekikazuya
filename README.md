@@ -44,6 +44,7 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
 - [「なぁぜなぁぜ」で問題解決。「なぜなぜ分析」って知ってますか？](https://qiita.com/umekikazuya/items/d8a709438b76f2bc054d)
 - [【SQL】NULL値を制御/SQLマスターへの道「COALESCE」](https://qiita.com/umekikazuya/items/61c16a36824c334e31e5)
 - [PRに対して意識が変わりました 〜エンジニア2年目の夏〜](https://qiita.com/umekikazuya/items/a3260117bbc64e6673c3)
+- [【SOLID原則】犬に「飛べ！」と言っちゃだめです。~ Interface Segregation Principle ~](https://qiita.com/umekikazuya/items/a8751e422bf198cde70f)
 ### [Zenn](https://zenn.dev/kazu_u)
 
 ## ■ Github Stats 💻
