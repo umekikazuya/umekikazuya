@@ -1,5 +1,6 @@
+# README.md
 ## ■ Thanks for coming to see us.
-[About Me](https://www.umekikazuya.me/).
+- [About Me](https://www.umekikazuya.me/)
 
 ## ■ Language and Tools
 <p style="display: inline">
@@ -36,7 +37,6 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
 #### Issue
 - [「Bootstrap DateTime Picker」 - Support for the field setting "Date Only".](https://www.drupal.org/project/bootstrap_datetime_picker/issues/3424515)
 
-
 ### [Qiita](https://qiita.com/umekikazuya)
 - [【PHP】Enumを活用して元号データを管理する方法](https://qiita.com/umekikazuya/items/31eabf4f3749eb7a3d16)
 - [「なぁぜなぁぜ」で問題解決。「なぜなぜ分析」って知ってますか？](https://qiita.com/umekikazuya/items/d8a709438b76f2bc054d)
@@ -44,8 +44,3 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
 - [PRに対して意識が変わりました 〜エンジニア2年目の夏〜](https://qiita.com/umekikazuya/items/a3260117bbc64e6673c3)
 - [【SOLID原則】犬に「飛べ！」と言っちゃだめです。~ Interface Segregation Principle ~](https://qiita.com/umekikazuya/items/a8751e422bf198cde70f)
 ### [Zenn](https://zenn.dev/kazu_u)
-
-## ■ Github Stats 💻
-![umekikazuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=umekikazuya&count_private=true&show_icons=true&theme=dark&rank_icon=github)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umekikazuya&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
