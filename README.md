@@ -1,7 +1,5 @@
-## ■ About me.
-Hi there 👋
-
-I'm Drupal developer.
+## ■ Thanks for coming to see us.
+[About Me](https://www.umekikazuya.me/).
 
 ## ■ Language and Tools
 <p style="display: inline">
