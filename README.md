@@ -35,7 +35,9 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
 - [JapaneseEraFormatter](https://www.drupal.org/project/japanese_era_formatter)
 - [Views Pager Token](https://www.drupal.org/project/views_pager_token)
 #### Issue
-- [「Bootstrap DateTime Picker」 - Support for the field setting "Date Only".](https://www.drupal.org/project/bootstrap_datetime_picker/issues/3424515)
+- Fix: [「ConfigPages」- Add Permission Handling to ConfigPages Block Feature](https://www.drupal.org/project/config_pages/issues/3468681)
+- Fix: [「Bootstrap DateTime Picker」 - Support for the field setting "Date Only".](https://www.drupal.org/project/bootstrap_datetime_picker/issues/3424515)
+- WIP: 
 
 ### [Qiita](https://qiita.com/umekikazuya)
 - [【PHP】Enumを活用して元号データを管理する方法](https://qiita.com/umekikazuya/items/31eabf4f3749eb7a3d16)
