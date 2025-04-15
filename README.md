@@ -2,18 +2,24 @@
 ## ■ Thanks for coming to see us.
 - [About Me](https://www.umekikazuya.me/)
 
-## ■ Language and Tools
-<p style="display: inline">
-  <img src="https://img.shields.io/badge/-drupal-0678BE.svg?logo=drupal&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/-Symfony-000000.svg?logo=symfony&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/-TypeScript-000000.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/-JavaScript-000000.svg?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/-Html5-E34F26.svg?style=for-the-badge&logo=Html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-Css3-1572B6.svg?style=for-the-badge&logo=Css3">
-  <img src="https://img.shields.io/badge/-Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
-</p>
+## ■ Tech Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SWR](https://img.shields.io/badge/swr-000000?style=for-the-badge&logo=swr&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## ■ Professional certification
 - **[Drupal9 Triple Certified](https://certification.acquia.com/user/18866)** : I have the highest level of Drupal certification.
