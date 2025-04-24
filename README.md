@@ -37,6 +37,13 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
 </p>
 
 ## ■ Community　& OSS Contribute
+### [Qiita](https://qiita.com/umekikazuya)
+- [【PHP】Enumを活用して元号データを管理する方法](https://qiita.com/umekikazuya/items/31eabf4f3749eb7a3d16)
+- [「なぁぜなぁぜ」で問題解決。「なぜなぜ分析」って知ってますか？](https://qiita.com/umekikazuya/items/d8a709438b76f2bc054d)
+- [【SQL】NULL値を制御/SQLマスターへの道「COALESCE」](https://qiita.com/umekikazuya/items/61c16a36824c334e31e5)
+- [PRに対して意識が変わりました 〜エンジニア2年目の夏〜](https://qiita.com/umekikazuya/items/a3260117bbc64e6673c3)
+- [【SOLID原則】犬に「飛べ！」と言っちゃだめです。~ Interface Segregation Principle ~](https://qiita.com/umekikazuya/items/a8751e422bf198cde70f)
+### [Zenn](https://zenn.dev/kazu_u)
 ### [Drupal Community](https://www.drupal.org/user/3748259)
 #### Module Project
 - [JapaneseEraFormatter](https://www.drupal.org/project/japanese_era_formatter)
@@ -45,11 +52,3 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
 - Fix: [「ConfigPages」- Add Permission Handling to ConfigPages Block Feature](https://www.drupal.org/project/config_pages/issues/3468681)
 - Fix: [「Bootstrap DateTime Picker」 - Support for the field setting "Date Only".](https://www.drupal.org/project/bootstrap_datetime_picker/issues/3424515)
 - WIP: 
-
-### [Qiita](https://qiita.com/umekikazuya)
-- [【PHP】Enumを活用して元号データを管理する方法](https://qiita.com/umekikazuya/items/31eabf4f3749eb7a3d16)
-- [「なぁぜなぁぜ」で問題解決。「なぜなぜ分析」って知ってますか？](https://qiita.com/umekikazuya/items/d8a709438b76f2bc054d)
-- [【SQL】NULL値を制御/SQLマスターへの道「COALESCE」](https://qiita.com/umekikazuya/items/61c16a36824c334e31e5)
-- [PRに対して意識が変わりました 〜エンジニア2年目の夏〜](https://qiita.com/umekikazuya/items/a3260117bbc64e6673c3)
-- [【SOLID原則】犬に「飛べ！」と言っちゃだめです。~ Interface Segregation Principle ~](https://qiita.com/umekikazuya/items/a8751e422bf198cde70f)
-### [Zenn](https://zenn.dev/kazu_u)
