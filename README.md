@@ -36,7 +36,7 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
     width="132" height="150" alt="アクイア認定バックエンドスペシャリスト- Drupal 9 2022 Badge" loading="lazy" typeof="foaf:Image">
 </p>
 
-## ■ Community　& OSS Contribute
+## ■ Community　&　OSS Contribute
 ### [Qiita](https://qiita.com/umekikazuya)
 - [【PHP】Enumを活用して元号データを管理する方法](https://qiita.com/umekikazuya/items/31eabf4f3749eb7a3d16)
 - [「なぁぜなぁぜ」で問題解決。「なぜなぜ分析」って知ってますか？](https://qiita.com/umekikazuya/items/d8a709438b76f2bc054d)
