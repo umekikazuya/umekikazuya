@@ -42,6 +42,7 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
 src="https://images.credly.com/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png"
     width="160" height="" alt="Associate Cloud Engineer" loading="lazy" typeof="foaf:Image">
 </p>
+
 ## ■ Community　&　OSS Contribute
 ### [Qiita](https://qiita.com/umekikazuya)
 - [【PHP】Enumを活用して元号データを管理する方法](https://qiita.com/umekikazuya/items/31eabf4f3749eb7a3d16)
