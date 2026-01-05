@@ -36,7 +36,7 @@ src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certificatio
     width="132" height="150" alt="アクイア認定バックエンドスペシャリスト- Drupal 9 2022 Badge" loading="lazy" typeof="foaf:Image">
 </p>
 
-- **[Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer?hl=ja)**: Google Cloud
+- **[Associate Cloud Engineer](https://www.credly.com/badges/7f5fa486-387f-4073-a9bd-db215d90e505/linked_in)**: Google Cloud
 <p align="left">
   <img
 src="https://images.credly.com/images/f6c4798e-59c9-4e94-8383-58a9041e8a7f/image.png"
