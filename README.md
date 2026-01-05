@@ -23,7 +23,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## ■ Professional certification
-- **[Drupal9 Triple Certified](https://certification.acquia.com/user/18866)**: I have the highest level of Drupal certification.
+- **[Drupal9 Triple Certified](https://certification.acquia.com/person/certified/kazuya-umeki)**: I have the highest level of Drupal certification.
 <p align="left">
   <img
 src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certification%252520Badge_Drupal%252520Site%252520Builder_Drupal%2525209_0_5_0.svg"
