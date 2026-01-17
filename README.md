@@ -23,10 +23,10 @@ I am a backend engineer based in Tokyo.
 
 ## ■ Open Source & Expertise
 
-- **OSS Contributions:** - [JapaneseEraFormatter](https://www.drupal.org/project/japanese_era_formatter) - Lead Developer
+- **Drupal.org:** - [MyPage](https://www.drupal.org/u/umekikazuya)
+  - [JapaneseEraFormatter](https://www.drupal.org/project/japanese_era_formatter) - Lead Developer
   - [Views Pager Token](https://www.drupal.org/project/views_pager_token)
   - Active contributor to the Drupal ecosystem (Issue fixes/patches).
-- **Core Interests:** API Design, Performance Tuning, Infrastructure as Code.
 
 ## ■ Tech Stack
 
