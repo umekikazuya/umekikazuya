@@ -45,7 +45,7 @@ I am a backend engineer based in Tokyo.
 ## ■ Achievements & Beyond Code
 
 - **Algorithms:** Solving [Project Euler](https://projecteuler.net/) problems to sharpen my logic.
-- **Certifications:** Drupal 9 Triple Certified / Google Cloud Associate Cloud Engineer.
+- **Certifications:** [Drupal 9 Triple Certified](https://certification.acquia.com/person/certified/kazuya-umeki) / [Google Cloud Associate Cloud Engineer](https://www.credly.com/badges/7f5fa486-387f-4073-a9bd-db215d90e505/linked_in).
 
 ## ■ Let's Connect
 [umekikazuya.me](https://www.umekikazuya.me/)
