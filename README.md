@@ -17,7 +17,7 @@ I am a backend engineer based in Tokyo.
   - ["45分→20秒" フレームワークの「恩恵」と「制約」を見極めたバッチ処理の高速化](https://fortee.jp/phpconodawara-2026/proposal/190c012c-38b3-4aaf-9281-69d3c2403831)
 - **DrupalCon Nara 2025**
   - ["当たり前"を疑いましょ ~ フレームワークからドメインを守るDrupalアーキテクチャ ~](https://events.drupal.org/nara2025/session/dangtariqianwoyiimashiyo-furemuwakukaratomeinwoshourudrupalakitekuchiya)
-	- [Drupal in the Loop: チームで育てる学習データ](https://events.drupal.org/nara2025/session/drupal-loop-chimuteyuteruxuexiteta)
+  - [Drupal in the Loop: チームで育てる学習データ](https://events.drupal.org/nara2025/session/drupal-loop-chimuteyuteruxuexiteta)
 
 ## ■ Writing
 
