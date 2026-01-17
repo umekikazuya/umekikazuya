@@ -11,8 +11,6 @@ I am a backend engineer based in Tokyo.
 - **API:** Robust Design & Development
 - **DevOps/Infra:** AWS CDK, **Docker (Writing a lot lately 🐳)**
 
----
-
 ## ■ Speaking
 
 - **[Upcoming] PHP Conference Odawara 2026** (Apr 2026)
@@ -30,14 +28,12 @@ I am a backend engineer based in Tokyo.
   - Active contributor to the Drupal ecosystem (Issue fixes/patches).
 - **Core Interests:** API Design, Performance Tuning, Infrastructure as Code.
 
----
-
 ## ■ Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## ■ Tools
@@ -46,14 +42,10 @@ I am a backend engineer based in Tokyo.
 - **Terminal:** Alacritty + tmux
 - **Version Management:** mise
 
----
-
 ## ■ Achievements & Beyond Code
 
 - **Algorithms:** Solving [Project Euler](https://projecteuler.net/) problems to sharpen my logic.
 - **Certifications:** Drupal 9 Triple Certified / Google Cloud Associate Cloud Engineer.
-
----
 
 ## ■ Let's Connect
 [umekikazuya.me](https://www.umekikazuya.me/)
