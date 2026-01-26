@@ -27,7 +27,7 @@ I am a backend engineer based in Tokyo.
 
 ## ■ Open Source & Expertise
 
-- Huh?: A simple, powerful library for building interactive forms and prompts in the terminal.
+- [Huh?](https://github.com/charmbracelet/huh): A simple, powerful library for building interactive forms and prompts in the terminal.
   - PR - fix: select cursor now moves instead of options scrolling [#728](https://github.com/charmbracelet/huh/pull/728)
 - **Drupal.org:** - [MyPage](https://www.drupal.org/u/umekikazuya)
   - [JapaneseEraFormatter](https://www.drupal.org/project/japanese_era_formatter) - Lead Developer
