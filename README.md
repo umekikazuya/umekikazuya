@@ -20,11 +20,6 @@ I am a backend engineer based in Tokyo.
   - ["当たり前"を疑いましょ ~ フレームワークからドメインを守るDrupalアーキテクチャ ~](https://events.drupal.org/nara2025/session/dangtariqianwoyiimashiyo-furemuwakukaratomeinwoshourudrupalakitekuchiya)
   - [Drupal in the Loop: チームで育てる学習データ](https://events.drupal.org/nara2025/session/drupal-loop-chimuteyuteruxuexiteta)
 
-## ■ Writing
-
-- [Qiita](https://qiita.com/umekikazuya)
-- [Zenn](https://zenn.dev/kazu_u)
-
 ## ■ Open Source & Expertise
 
 - [Huh?](https://github.com/charmbracelet/huh): A simple, powerful library for building interactive forms and prompts in the terminal.
