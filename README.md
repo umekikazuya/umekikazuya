@@ -14,7 +14,9 @@ I am a backend engineer based in Tokyo.
 
 ## ■ Speaking
 
-- **PHP Conference Odawara 2026** (Upcoming Apr 2026)
+- フロントエンドカンファレンス関西2026 (Upcoming Oct. 2026)
+  [UI実装者が書いたシナリオだからこそ、意味を持つk6負荷試験](https://fortee.jp/fec-kansai-2026/proposal/725e7950-2a02-4d4c-9d8f-54433b79e436)
+- **PHP Conference Odawara 2026**
   - ["45分→20秒" フレームワークの「恩恵」と「制約」を見極めたバッチ処理の高速化](https://fortee.jp/phpconodawara-2026/proposal/190c012c-38b3-4aaf-9281-69d3c2403831)
 - **DrupalCon Nara 2025**
   - ["当たり前"を疑いましょ ~ フレームワークからドメインを守るDrupalアーキテクチャ ~](https://events.drupal.org/nara2025/session/dangtariqianwoyiimashiyo-furemuwakukaratomeinwoshourudrupalakitekuchiya)
