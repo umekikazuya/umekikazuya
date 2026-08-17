@@ -32,14 +32,6 @@ I am a backend engineer based in Tokyo.
   - [Views Pager Token](https://www.drupal.org/project/views_pager_token)
   - Active contributor to the Drupal ecosystem (Issue fixes/patches).
 
-## ■ Tech Stack
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 ## ■ Tools
 
 - **Editor:** Neovim (vimpack)
