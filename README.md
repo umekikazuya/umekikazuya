@@ -26,9 +26,6 @@ I am a backend engineer based in Tokyo.
 - [Huh?](https://github.com/charmbracelet/huh): A simple, powerful library for building interactive forms and prompts in the terminal.
   - PR - fix: select cursor now moves instead of options scrolling [#728](https://github.com/charmbracelet/huh/pull/728)
 - **Drupal.org:** - [MyPage](https://www.drupal.org/u/umekikazuya)
-  - [JapaneseEraFormatter](https://www.drupal.org/project/japanese_era_formatter) - Lead Developer
-  - [Views Pager Token](https://www.drupal.org/project/views_pager_token)
-  - Active contributor to the Drupal ecosystem (Issue fixes/patches).
 
 ## ■ Tools
 
