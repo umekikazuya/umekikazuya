@@ -50,7 +50,3 @@ I am a backend engineer based in Tokyo.
 
 - **Algorithms**: Solving [Project Euler](https://projecteuler.net/) problems to sharpen my logic.
 - **Certifications:**: [Google Cloud Associate Cloud Engineer](https://www.credly.com/badges/7f5fa486-387f-4073-a9bd-db215d90e505/linked_in) / [Drupal 9 Triple Certified](https://certification.acquia.com/person/certified/kazuya-umeki)
-
-## ■ Let's Connect
-
-[umekikazuya.me](https://www.umekikazuya.me/)
