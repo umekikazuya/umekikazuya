@@ -1,5 +1,3 @@
-# README.md
-
 ## ■ Thanks for coming to see us
 
 I am a backend engineer based in Tokyo.
