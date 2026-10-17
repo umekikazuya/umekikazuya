@@ -17,13 +17,6 @@ I am a backend engineer based in Tokyo.
 - [**DrupalCon Nara 2025** / "当たり前"を疑いましょ ~ フレームワークからドメインを守るDrupalアーキテクチャ ~](https://events.drupal.org/nara2025/session/dangtariqianwoyiimashiyo-furemuwakukaratomeinwoshourudrupalakitekuchiya)
 - [**DrupalCon Nara 2025** / Drupal in the Loop: チームで育てる学習データ](https://events.drupal.org/nara2025/session/drupal-loop-chimuteyuteruxuexiteta)
 
-## ■ Open Source & Expertise
-
-- [aws/jsii](https://github.com/aws/jsii/issues/5036): cloudfront: Go documentation examples for optional array fields cause compilation errors
-- [Huh?](https://github.com/charmbracelet/huh): A simple, powerful library for building interactive forms and prompts in the terminal.
-  - PR - fix: select cursor now moves instead of options scrolling [#728](https://github.com/charmbracelet/huh/pull/728)
-- **Drupal.org:** - [MyPage](https://www.drupal.org/u/umekikazuya)
-
 ## ■ Tools
 
 - **Editor:** Neovim (vimpack)
